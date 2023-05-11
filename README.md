@@ -1,2 +1,2 @@
 # Leetcode_practice
-All practice call
+All practice
